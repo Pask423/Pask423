@@ -2,12 +2,11 @@
 
 Senior Software Engineer focused on robust, scalable systems. I work mostly in **Java/JVM** (and **Python**), designing and operating **distributed systems** and the trade-offs that make them run at scale.
 
-I also write **[Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/)** — a LinkedIn newsletter exploring practical architecture patterns.
+I also write **[Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/)** — a LinkedIn newsletter exploring limits of what is possible with "system design".
 
 ### Elsewhere 🌐
 [Blog](https://pasksoftware.com/) · [X/Twitter](https://x.com/PaskSoftware) · [LinkedIn](https://www.linkedin.com/in/bzylinski/)
 
----
 ## Writing ✍️
 - **[CRDTs](https://pasksoftware.com/crdts/):** Strong eventual consistency in distributed systems.
 - **[Lock-free programming](https://pasksoftware.com/lock-free-programming/):** Locks vs atomics — when, why and how.
@@ -18,7 +17,6 @@ I also write **[Limitless System Design](https://www.linkedin.com/newsletters/li
 - **[Java Streams Benchmark](https://github.com/Pask423/stream-benchmarks):** Microbenchmarks for Java Streams.
 ## Talks 🎤
 - **[Past talks](https://pasksoftware.com/talks/)**
----
 
 ### Open to 🤝
 - Writing, speaking, podcast guest spots
